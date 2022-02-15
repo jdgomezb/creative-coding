@@ -1,0 +1,25 @@
+{
+  "name": "creative-coding",
+  "version": "1.0.0",
+  "description": "Creative Coding: Making Visuals with JavaScript - Domestika Course",
+  "main": "sketch-01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdgomezb/creative-coding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdgomezb/creative-coding/issues"
+  },
+  "homepage": "https://github.com/jdgomezb/creative-coding#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0",
+    "tweakpane": "^3.0.7"
+  }
+}
